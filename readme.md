@@ -16,7 +16,7 @@ BeautifulSoup
 selenium
 You can install these packages using the following commands:
 
-```
+```python
 pip install beautifulsoup4
 pip install selenium
 ```
