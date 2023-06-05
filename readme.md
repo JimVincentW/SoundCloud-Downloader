@@ -26,7 +26,7 @@ To run the script, simply call the python file in your terminal:
 
 
 ```bash
-python soundcloud_downloader.py
+python main.py
 ```
 
 Make sure that your text file (links.txt) containing the SoundCloud links is in the same directory as your script. One link should be on each line.
