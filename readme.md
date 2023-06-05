@@ -16,7 +16,7 @@ BeautifulSoup
 selenium
 You can install these packages using the following commands:
 
-```python
+```bash
 pip install beautifulsoup4
 pip install selenium
 ```
@@ -25,7 +25,7 @@ Usage
 To run the script, simply call the python file in your terminal:
 
 
-```
+```bash
 python soundcloud_downloader.py
 ```
 
