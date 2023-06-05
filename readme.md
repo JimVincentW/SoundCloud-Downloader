@@ -30,3 +30,5 @@ python soundcloud_downloader.py
 ```
 
 Make sure that your text file (links.txt) containing the SoundCloud links is in the same directory as your script. One link should be on each line.
+
+Thanks to ChatGPT I for this Readme :D
