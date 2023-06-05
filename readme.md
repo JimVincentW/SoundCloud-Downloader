@@ -16,6 +16,16 @@ BeautifulSoup
 selenium
 You can install these packages using the following commands:
 
-
+'''
 pip install beautifulsoup4
 pip install selenium
+'''
+
+Usage
+To run the script, simply call the python file in your terminal:
+
+
+'''python soundcloud_downloader.py
+'''
+
+Make sure that your text file (links.txt) containing the SoundCloud links is in the same directory as your script. One link should be on each line.
